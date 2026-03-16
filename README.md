@@ -1,6 +1,7 @@
 # Elevate Safe
+![logo](elevate_safe_logo.png)
 
-*`Elevate Safe` - IoT University Group Project for the IoT: Algorithms and Services 2026 Course @ Sapienza University of Rome.
+IoT University Group Project for the IoT: Algorithms and Services 2026 Course @ Sapienza University of Rome.
 
 ## Members
 
