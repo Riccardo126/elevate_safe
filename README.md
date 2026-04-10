@@ -20,7 +20,7 @@ Engineered for old buildings where a big investment of money and time could not 
 ### First Delivery
 
 ####  *Document Links*
-
+ - [Concept](https://github.com/Riccardo126/elevate_safe/blob/main/deliveries/first_delivery/Concept-and-specifications.md)
  - [Slides](https://github.com/Riccardo126/elevate_safe/blob/main/deliveries/first_delivery/elevate-safe-1st-delivery.pptx)
 ###
 
