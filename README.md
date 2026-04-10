@@ -22,6 +22,11 @@ Engineered for old buildings where a big investment of money and time could not 
 ####  *Document Links*
 
  - [Slides](https://github.com/Riccardo126/elevate_safe/blob/main/deliveries/first_delivery/elevate-safe-1st-delivery.pptx)
- - [Concept](https://github.com/Riccardo126/elevate_safe/blob/main/deliveries/first_delivery/Concept-and-specifications.md)
 ###
 
+### Second Delivery
+
+####  *Document Links*
+
+ - [Slides](https://github.com/Riccardo126/elevate_safe/blob/main/deliveries/first_delivery/elevate-safe-2nd-delivery.pptx)
+###
